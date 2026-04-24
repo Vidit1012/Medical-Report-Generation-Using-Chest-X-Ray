@@ -35,6 +35,6 @@ Python · TensorFlow · Keras · PyTorch · NLTK · OpenCV · CheXNet · Matplot
 
 ---
 
-## Published Paper
+## Project Report
 
-See [`Group10_PubTech_Paper.pdf`](./Group10_PubTech_Paper.pdf) for the full published paper.
+See [`Group10_PubTech_Paper.pdf`](./Group10_PubTech_Paper.pdf) for the full project report.
